@@ -1,5 +1,6 @@
-body {
-  background-color: aquamarine;
-}
+/* Dependencies */
+@import url("scss/variables.scss");
+/* Views */
+@import url("scss/head.scss");
 
 /*# sourceMappingURL=default.css.map */
